@@ -1,0 +1,19 @@
+p{
+    /* background-color: gainsboro; */
+    color: black;
+}
+span{
+    color: coral;
+}
+button{
+    padding: 12px 35px;
+    border: 0;
+    background-image: linear-gradient(tomato, orange);
+    color: #fff;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 15px;
+}
+table, th, td {
+    border: 1px solid black;
+  }
